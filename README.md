@@ -66,8 +66,8 @@ Je combine design, expérience utilisateur et technologies récentes pour créer
 ---
 
 ## 📊 Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Sdarryy&show_icons=true&theme=dark)  
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sdarryy&layout=compact&theme=dark)  
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Eultype&show_icons=true&theme=dark)  
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eultype&layout=compact&theme=dark)  
 
 ---
 
