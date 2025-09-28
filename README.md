@@ -15,8 +15,6 @@ Je combine design, expérience utilisateur et technologies récentes pour créer
 
 ## 💻 Compétences techniques
 
-## 💻 Compétences techniques
-
 **Front-end**  
 ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5) 
 ![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3) 
