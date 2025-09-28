@@ -58,8 +58,8 @@ Je combine design, expérience utilisateur et technologies récentes pour créer
 ---
 
 ## 📊 Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Eultype&show_icons=true&theme=dark)  
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eultype&layout=compact&theme=dark)  
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Eultype&show_icons=true&theme=dark&cache_seconds=1800)  
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eultype&layout=compact&theme=dark&cache_seconds=1800)
 
 ---
 
