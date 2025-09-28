@@ -59,13 +59,7 @@ Je combine design, expérience utilisateur et technologies récentes pour créer
 
 ## 📊 Statistiques GitHub
 
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Eultype&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800)  
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eultype&layout=compact&theme=dark&cache_seconds=1800)  
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Eultype&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=DD2727&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=AAAAAA)
-
 
 ---
 
