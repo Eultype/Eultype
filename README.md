@@ -82,10 +82,7 @@ Actuellement en stage chez **Rebel Company**, je conçois des solutions numériq
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eultype&theme=radical" alt="GitHub Streak" height="180" />
-  
-  <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Eultype&theme=radical&hide_border=true&count_private=true" alt="Stats de Samuël" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eultype&theme=radical&v=1" alt="GitHub Streak" height="180" />
 </p>
 
 ---
