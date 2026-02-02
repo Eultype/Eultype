@@ -42,22 +42,22 @@ Actuellement en stage chez **Rebel Company**, je conçois des solutions numériq
 
 ## 🏆 Projets Phares
 
-### [2D3D Gravure - Dashboard (ERP)](https://admin.2d3d.be/)
+### 1. [2D3D Gravure - Dashboard (ERP)](https://admin.2d3d.be/)
 
 * **Description** : Système complet de gestion de production industrielle (Commandes, Stock, B2B).
 * **Stack** : Next.js 15, TypeScript, Prisma, PostgreSQL, Server Actions.
 
-### [Scarlett Gallery V2](https://www.scarlettgallery.com/)
+### 2. [Scarlett Gallery V2](https://www.scarlettgallery.com/)
 
 * **Description** : Vitrine digitale haute fidélité pour une artiste peintre. Migration Next.js et SEO avancé.
 * **Stack** : Next.js, Framer Motion, Lenis Scroll, Tailwind CSS.
 
-### [La Dolce Vita](https://la-dolce-vita-green.vercel.app/)
+### 3. [La Dolce Vita](https://la-dolce-vita-green.vercel.app/)
 
 * **Description** : Vitrine gastronomique immersive pour un restaurant italien de prestige.
 * **Stack** : Next.js, Tailwind CSS, TypeScript, Framer Motion.
 
-### [Portfolio Interactif V2](https://www.samueldarry.com)
+### 4. [Portfolio Interactif V2](https://www.samueldarry.com)
 
 * **Description** : Expérience immersive mêlant navigation fluide et rendu 3D temps réel.
 * **Stack** : Next.js, Three.js, GSAP, Tailwind CSS v4.
