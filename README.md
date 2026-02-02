@@ -81,9 +81,10 @@ Actuellement en stage chez **Rebel Company**, je conçois des solutions numériq
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eultype&theme=radical&v=1" alt="GitHub Streak" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eultype&theme=radical" alt="Stats de Samuël" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eultype&theme=radical" alt="Langages les plus utilisés" height="180" />
 </p>
+
 
 ---
 
