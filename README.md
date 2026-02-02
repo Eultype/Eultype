@@ -81,8 +81,9 @@ Actuellement en stage chez **Rebel Company**, je conçois des solutions numériq
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eultype&show_icons=true&theme=tokyonight" alt="Stats de Samuël" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eultype&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eultype&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Samuël" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eultype&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Langages les plus utilisés"
+    height="180" />
 </p>
 
 ---
